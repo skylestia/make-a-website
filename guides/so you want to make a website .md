@@ -85,7 +85,7 @@ Netlify is free forever, but it does charge you if you go over the limits of you
 
 ...
 
-## Other services I see recommended:
+## Other services I often see recommended:
 
 [**Neocities**](https://neocities.org/)
 
@@ -94,4 +94,18 @@ For free you get:
 - 1 GB storage space
 - 200 GB bandwidth per month
 
-Neocities is completely free forever, or as long as the service runs. You can edit your site directly in their online code editor or you can upload files from your computer. Neocities also offers a [free course]([Neocities - HTML Tutorial - 1/10](https://neocities.org/tutorial/html/1)) on how to code basic html and css. Basic html and css is very easy to learn, so don't feel intimidated!
+Full limits: [Neocities - Become a Supporter](https://neocities.org/supporter)
+
+Neocities is completely free forever, or as long as the service runs. Sites hosted by Neocities are available on a .neocities.org subdomain. You can use a custom domain, but only if you pay for a premium account. You can edit your site directly in their online code editor or you can upload files from your computer. Neocities also offers a [free course]([Neocities - HTML Tutorial - 1/10](https://neocities.org/tutorial/html/1)) on how to code basic html and css. Basic html and css is very easy to learn, so don't feel intimidated!
+
+[**Surge**](https://surge.sh/)
+
+For free you get:
+
+- unlimited bandwidth
+
+- basic SSL
+
+Full limits: [Pricing • Surge](https://surge.sh/pricing)
+
+Surge is free to use forever, however free accounts are heavily limited compared to paid accounts. Still, unlimited bandwidth for free isn't very common! Surge runs on your local machine and publishes whatever directory you run it in to the web. Free sites hosted by surge are available on a .surge.sh subdomain. You can use a custom domain with Surge, but they don't register domains so you'll have to obtain your custom domain from a dedicated domain name provider.
