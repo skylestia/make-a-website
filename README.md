@@ -6,7 +6,7 @@
 
 - [Introduction](#Introduction)
 
-- [Statement of Cause](#Statement-of-Cause)
+- [Mission Statement](#Mission-Statement)
 
 ## Repo Navigation
 
@@ -14,7 +14,7 @@
 
 ## Introduction
 
-I want people to have as an easy a time as possible learning html and css and making and hosting their own personal websites. This repository will contain basic html and css templates that people can use as starting points for their websites, as well as both tutorials on how to code basic html and css and guides on how to find a host and domain name.
+I want it to be as easy as possible for people to learn html and css and making and hosting their own personal websites. This repository will contain basic html and css templates that people can use as starting points for their websites, as well as both tutorials on how to code basic html and css and guides on how to find a host and domain name.
 
 You don't need any prior experience in coding html or css to be able to follow the guides here! You actually don't need any prior experience in any coding at all, so please don't feel intimidated! Html and css are very easy to learn, especially html, and if you'd rather not bother learning css yet, it is optional! You don't need to know css to code in html, and while css does complement html and allows you to style the html you write, your html can exist on its own without any css. If you've ever used a forum and used BBCode to format posts, you will probably have a very easy time picking up html.
 
@@ -26,7 +26,7 @@ That is just an extremely basic example, but you can see that html is very easy 
 
 ---
 
-## Statement of Cause / Mission Statement
+## Mission Statement
 
 It's 2023, the internet has been around for something like 40 years. But the modern web consists of mostly just a few websites, just a few enormous platforms that everyone visits day to day. Many uses only ever visit Google, Facebook, Twitter, Youtube, Reddit, and a few other sites and apps. There's not much room for users to be creative with their personal spaces on these platforms, they get little more than the ability to upload custom profile pictures and write short custom bios. *Everything looks the same, everything uses the same underlying technologies... there is often little to set any one page apart from any other.* But it wasn't always this way.
 
@@ -41,4 +41,3 @@ Which culture would **you** prefer? It may be the case that the peak of social m
 I want to see the personal web rise again, I want to see people creating and maintaing personal websites in their free time for fun. I want personal websites to exist alongside regular social media, and I want anyone who wants to have a website, to have a website. I want to help make the process of making a website more accessible, and I want to help make it seem less daunting or overwhelming to beginners.
 
 [![check out the yesterweb movement](https://sky-assets.pages.dev/img/btn/ystrweb.png "The Yesterweb")](https://yesterweb.org/) [![Say no to Web 3, Keep the web free](https://sky-assets.pages.dev/img/btn/no2w3.gif "Say no to Web 3, Keep the web free")](https://yesterweb.org/no-to-web3)
-
