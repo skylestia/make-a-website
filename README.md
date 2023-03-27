@@ -16,7 +16,7 @@ Here's a very basic example of how to write a paragraph in html:
 
 That is just an extremely basic example, but you can see that html is very easy to write and very easy to learn. If your goal is to make a simple, static, personal website where you can talk about yourself and your interests or passions, or write a blog or post art or anything like that, then the above example has already taught you most of what you need to know in terms of code! You're already well on your way to having a website!
 
-Go to [code.md](code.md) to keep learning!
+Go to [code.md](guides/code.md) to keep learning!
 
 ---
 
