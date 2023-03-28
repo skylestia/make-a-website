@@ -1,3 +1,4 @@
+<div class="container">
 # Mission Statement
 
 It's 2023, the internet has been around for something like 40 years. But the modern web consists of mostly just a few websites, just a few enormous platforms that everyone visits day to day. Many users only ever visit Google, Facebook, Twitter, Youtube, Reddit, and a few other sites and apps. There's not much room for users to be creative with their personal spaces on these platforms, they get little more than the ability to upload custom profile pictures and write short custom bios. *Everything looks the same, everything uses the same underlying technologies... there is often little to set any one page apart from any other.* But it wasn't always this way.
@@ -13,3 +14,6 @@ Which culture would **you** prefer? It may be the case that the peak of social m
 I want to see the personal web rise again, I want to see people creating and maintaining personal websites in their free time for fun. I want personal websites to exist alongside regular social media, and I want anyone who wants to have a website, to have a website. I want to help make the process of making a website more accessible, and I want to help make it seem less daunting or overwhelming to beginners. This repo will serve as a tool for that purpose through simple guides and tutorials on how to code html and css, free open source templates that people can use, and lists of helpful resources.
 
 [![check out the yesterweb movement](https://sky-assets.pages.dev/img/btn/ystrweb.png "The Yesterweb")](https://yesterweb.org/) [![Say no to Web 3, Keep the web free](https://sky-assets.pages.dev/img/btn/no2w3.gif "Say no to Web 3, Keep the web free")](https://yesterweb.org/no-to-web3)
+
+[![Take back the web. Learn HTML.](https://sky-assets.pages.dev/img/blnks/lrn-html.gif "Take back the web. Learn HTML.")](./README.md)
+</div>

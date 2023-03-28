@@ -1,3 +1,4 @@
+<div class="container">
 # learn-html
 
 ## Repo Navigation
@@ -23,3 +24,4 @@ Go to [code.md](guides/code.md) to keep learning!
 Want to contribute to this project? Feel free to submit a pull request!
 
 But please make sure to first read the [mission statement](mission-statement.md) and understand the [scope of the project.](scope.md)
+</div>
