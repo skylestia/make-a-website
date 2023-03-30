@@ -3,7 +3,7 @@
 
 ## Repo Navigation
 
-| [Learn Html](guides/code.md) | [Hosts](guides/hosts.md) | [Builders](guides/builders.md) | [Dictionary](guides/vocab.md) |
+| [HTML](guides/html.md) | [CSS](guides/css.md) | [Hosts](guides/hosts.md) | [Builders](guides/builders.md) | [Dictionary](guides/vocab.md) |
 
 ## Introduction
 
