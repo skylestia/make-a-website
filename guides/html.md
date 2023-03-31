@@ -1,5 +1,26 @@
 # learn html
 
+## Table of Contents
+
+- [learn html](#learn-html)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Basic HTML Structure](#basic-html-structure)
+          - [Example 001](#example-001)
+  - [Start Putting Content on the page](#start-putting-content-on-the-page)
+    - [Headings and Paragraphs](#headings-and-paragraphs)
+          - [Example 002](#example-002)
+          - [Example 003](#example-003)
+    - [Lists](#lists)
+          - [Example 004](#example-004)
+    - [Images](#images)
+          - [Example 005](#example-005)
+    - [Links](#links)
+          - [Example 006](#example-006)
+  - [CSS](#css)
+
+---
+
 ## Introduction
 
 HTML is a very simple coding language and it's very easy to learn. Seriously, I'm not joking! All you really need to know to write HTML is a few tags! HTML is just a language that tells web browsers like Google Chrome and Firefox how to format text on a page, the majority of HTML code is actually usually just text contained within tags. Tags are what opens and closes an HTML element.
@@ -51,7 +72,11 @@ It's a very simple hierarchy structure, and all you really need to know is the n
 
 Now, save your file. This can be done in most popular text editors by pressing `CTRL+S`. Save the file as `index.html`. It's very important that the file extension is saved as `.html` and not `.txt`! If you put html in a .txt file, it will just be rendered as plain text! It's also important to name the file `index`, on the web the home page of a website is always the file called `index.html`. So, for example, if our website is `reallycoolsite.com` our home page actually lives at `reallycoolsite.com/index.html` but the browser just hides `index.html` from the url.
 
+---
+
 ## Start Putting Content on the page
+
+---
 
 ### Headings and Paragraphs
 
@@ -92,6 +117,8 @@ If you want to add more paragraphs, just add more `<p>` elements:
 </body>
 </html>
 ```
+---
+
 ### Lists
 
 But let's say you want to write a list of something. Like a list of your interests, for example:
@@ -131,6 +158,8 @@ If you wanted to make a numbered list instead:
 
 You would replace `<ul>` and `</ul>` with `<ol>` and `</ol>` (Ordered List).
 
+---
+
 ### Images
 
 You'll probably eventually want to add an image to your site, and this too, is very simple. So let's say we want to add a neat "under construction" graphic so that people know this very cool website isn't completed yet and that changes will be coming. There are lots of these graphics available on [GifCities,](https://gifcities.org/) if you want to find your own.
@@ -166,6 +195,8 @@ You can also reference images from external servers by changing the path in the 
 
 `<img src='https://anothercoolsite.com/images/cool-logo.png'>`
 
+---
+
 ### Links
 
 You'll probably also want to link to other pages at some point. You would do that with the `<a>` element. `<a>` actually stands for anchor, this is called an anchor element. Anchor elements have an attribute called `href` which lets you point to a link. So if I wanted to link to `anothercoolsite.com` I would write an anchor element like this: `<a href='https://anothercoolsite.com/'>Another Cool Site!</a>` You put the url of the page you want to link to in the `href` attribute, enclosed between quotes, and then you write the text you want to be the link inside of the anchor. Our existing html might look like this after we've added a link to `anothercoolsite.com`:
@@ -196,4 +227,12 @@ You'll probably also want to link to other pages at some point. You would do tha
 
 You can also create links to other pages on your own site. If we create another html file in our `website` folder, called something like `second-page.html` we could link to it like this: `<a href='second-page.html'>Here's my second page!</a>`! But if `second-page.html` is actually in a sub-folder like this for example: `website/other-pages/second-page.html` we would instead link to it like this: `<a href='other-pages/second-page.html'>Here's my second page!</a>`
 
-### Divs, classes, and IDs
+---
+
+## CSS
+
+That's all you need to know for the most basic website! You can now say you know html! This is just a really simple web page, it has no styles. In other words, it has no custom colors, no custom fonts, and no background image or color. That's not necessarily a bad thing, it means a greater focus on the content. It also means that your page will generally scale really easily onto different size screens without any extra work. There are people out there who really like plain html web pages! Although they're probably not in the majority.
+
+In order to apply styles to your html, you need a complementary language called CSS (Cascading Stylesheets) which will enable you to apply custom colors, backgrounds, and fonts to your web page. You can also use it to fine tune things like the placement and alignment of text and other elements on the page, and margins.
+
+Go to [css.md](css.md) to keep learning about CSS.

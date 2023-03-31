@@ -4,6 +4,32 @@ This will be a list of services that offers free web hosting.
 
 ## Table of Contents
 
+- [hosts](#hosts)
+  - [Table of Contents](#table-of-contents)
+  - [Very popular:](#very-popular)
+      - [Github Pages](#github-pages)
+      - [Gitlab Pages](#gitlab-pages)
+      - [Codeberg Pages](#codeberg-pages)
+      - [Netlify](#netlify)
+  - [Somewhat less popular:](#somewhat-less-popular)
+      - [Neocities](#neocities)
+      - [Surge](#surge)
+  - [Others:](#others)
+      - [Cloudflare Pages](#cloudflare-pages)
+      - [render](#render)
+      - [Amazon Web Services](#amazon-web-services)
+      - [ichi city](#ichi-city)
+      - [tilde town](#tilde-town)
+  - [Less popular or lesser known:](#less-popular-or-lesser-known)
+      - [000webhost](#000webhost)
+      - [aeonfree](#aeonfree)
+      - [Bitbucket](#bitbucket)
+      - [Byet Internet Services](#byet-internet-services)
+      - [Firebase](#firebase)
+      - [GEOCITIES.ws](#geocitiesws)
+      - [InfinityFree](#infinityfree)
+      - [Vercel](#vercel)
+
 ---
 
 ## Very popular:
@@ -40,9 +66,7 @@ Gitlab Pages is completely free forever. It works just like Github Pages: it sup
 For free you get:
 
 - unlimited storage ?
-
 - unlimited bandwidth ?
-
 - no charges, no fees
 
 Codeberg Pages is completely free forever. It works just like the other two git services above: it supports static sites in html, css, and javascript and serves files contained in Codeberg repos. You can write your own code or use a template. Sites are available on a .codeberg.page subdomain. You can use custom domains.
@@ -81,9 +105,7 @@ Neocities is open source and completely free forever, or as long as the service 
 For free you get:
 
 - unlimited bandwidth
-
 - basic SSL
-
 - no charges, no fees
 
 Full limits: [Pricing • Surge](https://surge.sh/pricing)
@@ -99,11 +121,8 @@ Surge is free to use forever, however free accounts are heavily limited compared
 For free you get:
 
 - 1 build at a time
-
 - 500 builds per month
-
 - unlimited bandwidth
-
 - no charges, no fees
 
 Full limits: [Cloudflare Pages Pricing](https://pages.cloudflare.com/#pricing)
@@ -115,9 +134,7 @@ With Cloudflare Pages you can either edit your sites code locally on your comput
 For free you get:
 
 - 400 build hours per month
-
 - 100 GB bandwidth per month
-
 - pay as you go, charged if you exceed free limits
 
 Full limits: [Static Sites | Render · Cloud Hosting for Developers](https://render.com/docs/static-sites)
@@ -129,9 +146,7 @@ render works similarly to Cloudflare Pages: you can connect to Github or Gitlab 
 For free you get:
 
 - 15 GB storage
-
 - 15 GB bandwidth per month
-
 - pay as you go, charged if you exceed free limits
 
 Full limits: [AWS Product and Service Pricing | Amazon Web Services](https://aws.amazon.com/pricing/?nc2=h_ql_pr_ln&aws-products-pricing.sort-by=item.additionalFields.productNameLowercase&aws-products-pricing.sort-order=asc&awsf.Free%20Tier%20Type=free-tier%23always-free&awsf.tech-category=*all)
@@ -141,9 +156,7 @@ Full limits: [AWS Product and Service Pricing | Amazon Web Services](https://aws
 For free you get:
 
 - unlimited storage ?
-
 - unlimited bandwidth ?
-
 - no charges, no fees
 
 ichi city is open source and completely free forever. I have no idea what the hosting limits are. ichi city seems to be a personal project of [m15o](https://m15o.ichi.city/) and I'm not really sure how the project is funded, so I imagine it would be ideal to not upload very large sites or high traffic sites here. ichi is also explicitly not for advertising, so if your website is just self-promotion you shouldn't use ichi city.
@@ -153,9 +166,7 @@ ichi city is open source and completely free forever. I have no idea what the ho
 For free you get:
 
 - unlimited storage ?
-
 - unlimited bandwidth ?
-
 - no charges, no fees
 
 tilde town is also open source and completely free forever. I don't know what the hosting limits are, and tilde appears to be funded entirely by user donations.
@@ -169,9 +180,7 @@ tilde town is also open source and completely free forever. I don't know what th
 For free you get:
 
 - 300 MB storage
-
 - 3 GB bandwidth per month
-
 - no charges, no fees
 
 Full limits: [000webhost - Pricing Table](https://www.000webhost.com/#pricing-table-v4-full-feature-container)
@@ -181,9 +190,7 @@ Full limits: [000webhost - Pricing Table](https://www.000webhost.com/#pricing-ta
 For free you get:
 
 - unlimited storage
-
 - unlimited bandwidth
-
 - no charges, no fees
 
 Full limits: [AeonFree - Features](https://aeonfree.com/#features)
@@ -193,9 +200,7 @@ Full limits: [AeonFree - Features](https://aeonfree.com/#features)
 For free you get:
 
 - 1 GB file size upload limit
-
 - 50 build minutes per month
-
 - no charges, no fees
 
 Full limits: [Bitbucket - Pricing | Atlassian](https://www.atlassian.com/software/bitbucket/pricing?tab=cloud-tab)
@@ -205,9 +210,7 @@ Full limits: [Bitbucket - Pricing | Atlassian](https://www.atlassian.com/softwar
 For free you get:
 
 - 1 GB storage
-
 - 50 GB bandwidth per month
-
 - no charges, no fees
 
 Full limits: [Free Hosting (byet.host)](https://byet.host/free-hosting)
@@ -217,9 +220,7 @@ Full limits: [Free Hosting (byet.host)](https://byet.host/free-hosting)
 For free you get:
 
 - 10 GB storage
-
 - 10 GB bandwidth per month
-
 - pay as you go, charged if you exceed free limits
 
 Full limits: [Firebase Pricing (google.com)](https://firebase.google.com/pricing)
@@ -229,9 +230,7 @@ Full limits: [Firebase Pricing (google.com)](https://firebase.google.com/pricing
 For free you get:
 
 - unlimited storage
-
 - unlimited bandwidth
-
 - no charges, no fees
 
 #### [InfinityFree](https://www.infinityfree.net/)
@@ -239,9 +238,7 @@ For free you get:
 For free you get:
 
 - 5 GB storage
-
 - unlimited bandwidth
-
 - no charges, no fees
 
 #### [Vercel](https://vercel.com/)
@@ -249,9 +246,7 @@ For free you get:
 For free you get:
 
 - 1 build at a time
-
 - 100 GB per month
-
 - no charges, no fees
 
 Full limits: [Pricing – Vercel](https://vercel.com/pricing)
