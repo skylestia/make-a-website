@@ -1,5 +1,7 @@
 # learn css
 
+This file is currently incomplete!
+
 ## Introduction
 
 CSS, like html, is a very simple coding language and it's very easy to learn. Once you understand html structure, you're very well on your way to understanding css as well! This is because css just applies style properties to elements in the html. HTML tells the browser how to format content on a page, and CSS tells the browser what properties the HTML should have.
