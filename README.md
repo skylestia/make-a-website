@@ -21,3 +21,5 @@ Go to [html.md](guides/html.md) to keep learning about html or [css.md](guides/c
 ---
 
 Want to contribute to this project? Feel free to submit a pull request! But please make sure to first read the [mission statement!](mission-statement.md)
+
+<a href="https://ko-fi.com/skylestia"><img src="https://sky-assets.pages.dev/img/ico/soc/kofi.png" alt="kofi tip icon" loading="lazy">Tip Me?</a>
