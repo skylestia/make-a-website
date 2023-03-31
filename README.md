@@ -2,7 +2,7 @@
 
 ## Repo Navigation
 
-| [HTML](guides/html.md) | [CSS](guides/css.md) | [Hosts](guides/hosts.md) | [Builders](guides/builders.md) | [Dictionary](guides/vocab.md) |
+| [HTML](guides/html.md) | [CSS](guides/css.md) | [Hosts](guides/hosts.md) | [Builders](guides/builders.md) | [Dictionary](guides/vocab.md) | [View on Github](https://github.com/skylestia/make-a-website)
 
 ## Introduction
 
