@@ -14,4 +14,4 @@ I want to see the personal web rise again, I want to see people creating and mai
 
 [![check out the yesterweb movement](https://sky-assets.pages.dev/img/btn/ystrweb.png "The Yesterweb")](https://yesterweb.org/) [![Say no to Web 3, Keep the web free](https://sky-assets.pages.dev/img/btn/no2w3.gif "Say no to Web 3, Keep the web free")](https://yesterweb.org/no-to-web3)
 
-[![Take back the web. Learn HTML.](https://sky-assets.pages.dev/img/blnks/lrn-html.gif "Take back the web. Learn HTML.")](./README.md)
+[![make a website, the web is yours](https://sky-assets.pages.dev/img/btn/maw.gif "make a website")](./README.md) [![Take back the web. Learn HTML.](https://sky-assets.pages.dev/img/blnks/lrn-html.gif "Take back the web. Learn HTML.")](./README.md)

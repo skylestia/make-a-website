@@ -1,10 +1,20 @@
-# make-a-website
+# Make a website! The web is yours!
 
 ## Repo Navigation
 
-| [HTML](guides/html.md) | [CSS](guides/css.md) | [Templates](templates/readme.md) | [Builders](guides/builders.md) | [Hosts](guides/hosts.md) | [Dictionary](guides/vocab.md) |
+Learn:
+- [HTML](guides/html.md)
+- [CSS](guides/css.md)
+- [Dictionary](guides/vocab.md)
 
-| [Mission Statement](mission-statement.md) | [View on Github](https://github.com/skylestia/make-a-website) |
+Resources:
+- [Templates](templates/readme.md)
+- [Builders](guides/builders.md)
+- [Hosts](guides/hosts.md)
+
+About:
+- [Mission Statement](mission-statement.md)
+- [View on Github](https://github.com/skylestia/make-a-website)
 
 ## Introduction
 

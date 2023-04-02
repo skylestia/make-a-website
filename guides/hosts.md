@@ -57,7 +57,7 @@ For free you get:
 - 5 users per name space
 - no charges, no fees
 
-Full limits: [Pricing | GitLab](https://about.gitlab.com/pricing/)
+Full limits: [Pricing - GitLab](https://about.gitlab.com/pricing/)
 
 Gitlab Pages is completely free forever. It works just like Github Pages: it supports static sites in html, css, and javascript and serves files contained in Gitlab repos. You can write your own code or use a [template.](https://gitlab.com/pages) Sites are available on a .gitlab.io subdomain. You can use custom domains.
 
@@ -137,7 +137,7 @@ For free you get:
 - 100 GB bandwidth per month
 - pay as you go, charged if you exceed free limits
 
-Full limits: [Static Sites | Render · Cloud Hosting for Developers](https://render.com/docs/static-sites)
+Full limits: [Static Sites - Render · Cloud Hosting for Developers](https://render.com/docs/static-sites)
 
 render works similarly to Cloudflare Pages: you can connect to Github or Gitlab and deploy your site from a repository. Free sites are available on a .onrender.com subdomain. You can use custom domains with render, but you'll have to obtain one from a dedicated domain name provider.
 
@@ -149,7 +149,7 @@ For free you get:
 - 15 GB bandwidth per month
 - pay as you go, charged if you exceed free limits
 
-Full limits: [AWS Product and Service Pricing | Amazon Web Services](https://aws.amazon.com/pricing/?nc2=h_ql_pr_ln&aws-products-pricing.sort-by=item.additionalFields.productNameLowercase&aws-products-pricing.sort-order=asc&awsf.Free%20Tier%20Type=free-tier%23always-free&awsf.tech-category=*all)
+Full limits: [AWS Product and Service Pricing - Amazon Web Services](https://aws.amazon.com/pricing/?nc2=h_ql_pr_ln&aws-products-pricing.sort-by=item.additionalFields.productNameLowercase&aws-products-pricing.sort-order=asc&awsf.Free%20Tier%20Type=free-tier%23always-free&awsf.tech-category=*all)
 
 #### [ichi city](https://ichi.city/)
 
@@ -203,7 +203,7 @@ For free you get:
 - 50 build minutes per month
 - no charges, no fees
 
-Full limits: [Bitbucket - Pricing | Atlassian](https://www.atlassian.com/software/bitbucket/pricing?tab=cloud-tab)
+Full limits: [Bitbucket - Pricing - Atlassian](https://www.atlassian.com/software/bitbucket/pricing?tab=cloud-tab)
 
 #### [Byet Internet Services](https://byet.host/)
 
