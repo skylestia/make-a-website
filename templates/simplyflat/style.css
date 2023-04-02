@@ -13,7 +13,7 @@ body {
 a {color: #53b6d7;text-decoration: none;}
 a:hover {color: lightblue;}
 .container {
-    max-width: 70%;
+    max-width: 60em;
     margin: 2em auto;
     padding: 1em 3em;
     border-radius: 2em;
@@ -32,3 +32,5 @@ img#logo {
 .bio {max-width: 50em;}
 .list-block {display: flex;}
 .project-list,.contact-list {margin: 0 1em;}
+@media only screen and (max-width: 1000px) {.container {margin: 0;padding: 0;border: initial;}}
+@media only screen and (max-width: 750px) {.text {padding: 0 2em;}}
