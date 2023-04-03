@@ -1,22 +1,25 @@
 # learn html
 
+## Repo Navigation
+
+| Learn:                          | Resources:                         | About:
+| ------------------------------- | ---------------------------------- | ---------------------------------------------
+| - [HTML](guides/html.md)        | - [Templates](templates/readme.md) | - [Home/Introduction](./)
+| - [CSS](guides/css.md)          | - [Builders](guides/builders.md)   | - [Mission Statement](mission-statement.md)
+| - [Dictionary](guides/vocab.md) | - [Hosts](guides/hosts.md)         | - [View on Github](https://github.com/skylestia/make-a-website)
+
 ## Table of Contents
 
 - [learn html](#learn-html)
+  - [Repo Navigation](#repo-navigation)
   - [Table of Contents](#table-of-contents)
   - [Introduction](#introduction)
   - [Basic HTML Structure](#basic-html-structure)
-          - [Example 001](#example-001)
   - [Start Putting Content on the page](#start-putting-content-on-the-page)
     - [Headings and Paragraphs](#headings-and-paragraphs)
-          - [Example 002](#example-002)
-          - [Example 003](#example-003)
     - [Lists](#lists)
-          - [Example 004](#example-004)
     - [Images](#images)
-          - [Example 005](#example-005)
     - [Links](#links)
-          - [Example 006](#example-006)
   - [CSS](#css)
 
 ---

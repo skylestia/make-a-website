@@ -2,6 +2,14 @@
 
 This document will serve to define various terms commonly used throughout the rest of the repo, in case they have multiple understood definitions or in case they might be unknown to an average person who may be inexperienced in web development and design.
 
+## Repo Navigation
+
+| Learn:                          | Resources:                         | About:
+| ------------------------------- | ---------------------------------- | ---------------------------------------------
+| - [HTML](guides/html.md)        | - [Templates](templates/readme.md) | - [Home/Introduction](./)
+| - [CSS](guides/css.md)          | - [Builders](guides/builders.md)   | - [Mission Statement](mission-statement.md)
+| - [Dictionary](guides/vocab.md) | - [Hosts](guides/hosts.md)         | - [View on Github](https://github.com/skylestia/make-a-website)
+
 #### **bandwidth**
 *-- noun*
 

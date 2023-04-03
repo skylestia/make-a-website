@@ -2,6 +2,14 @@
 
 This file is currently incomplete!
 
+## Repo Navigation
+
+| Learn:                          | Resources:                         | About:
+| ------------------------------- | ---------------------------------- | ---------------------------------------------
+| - [HTML](guides/html.md)        | - [Templates](templates/readme.md) | - [Home/Introduction](./)
+| - [CSS](guides/css.md)          | - [Builders](guides/builders.md)   | - [Mission Statement](mission-statement.md)
+| - [Dictionary](guides/vocab.md) | - [Hosts](guides/hosts.md)         | - [View on Github](https://github.com/skylestia/make-a-website)
+
 ## Introduction
 
 CSS, like html, is a very simple coding language and it's very easy to learn. Once you understand html structure, you're very well on your way to understanding css as well! This is because css just applies style properties to elements in the html. HTML tells the browser how to format content on a page, and CSS tells the browser what properties the HTML should have.

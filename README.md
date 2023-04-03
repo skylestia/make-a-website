@@ -2,19 +2,11 @@
 
 ## Repo Navigation
 
-Learn:
-- [HTML](guides/html.md)
-- [CSS](guides/css.md)
-- [Dictionary](guides/vocab.md)
-
-Resources:
-- [Templates](templates/readme.md)
-- [Builders](guides/builders.md)
-- [Hosts](guides/hosts.md)
-
-About:
-- [Mission Statement](mission-statement.md)
-- [View on Github](https://github.com/skylestia/make-a-website)
+| Learn:                          | Resources:                         | About:
+| ------------------------------- | ---------------------------------- | ---------------------------------------------
+| - [HTML](guides/html.md)        | - [Templates](templates/readme.md) | - [Home/Introduction](./)
+| - [CSS](guides/css.md)          | - [Builders](guides/builders.md)   | - [Mission Statement](mission-statement.md)
+| - [Dictionary](guides/vocab.md) | - [Hosts](guides/hosts.md)         | - [View on Github](https://github.com/skylestia/make-a-website)
 
 ## Introduction
 
@@ -24,7 +16,7 @@ You don't need any prior experience in coding html or css to be able to follow t
 
 Here's a very basic example of how to write a paragraph in html:
 
-`<p>`Anything enclosed inside of `<p>` and `</p>` will be interpreted as a "paragraph" element. Typically you use these elements to write most text on a web page. **`<b>`The tags `<b>` and `</b>` will make text bold.`</b>`** *`<i>`The tags `<i>` and `</i>` will make text italic.`</i>`* <ins>`<u>`The tags `<u>` and `</u>` will underline text.`</u>`</ins> `</p>`
+`<p>`Anything enclosed inside of `<p>` and `</p>` will be interpreted as a "paragraph" element. Typically you use these elements to write most text on a web page. `<b>`**The tags **`<b>`** and **`</b>`** will make text bold.**`</b>` `<i>`*The tags *`<i>`* and *`</i>`* will make text italic.*`</i>` `<u>`<ins>The tags </ins>`<u>`<ins> and </ins>`</u>`<ins> will underline text.</ins>`</u>``</p>`
 
 That is just an extremely basic example, but you can see that html is very easy to write and very easy to learn. If your goal is to make a simple, static, personal website where you can talk about yourself and your interests or passions, or write a blog or post art or anything like that, then the above example has already taught you most of what you need to know in terms of code! You're already well on your way to having a website!
 

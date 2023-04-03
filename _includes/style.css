@@ -1,0 +1,12 @@
+html {display: flex;}
+body {
+    max-width: 60em;
+    margin: 5em auto;
+    padding: 3em;
+    color: #CCCCCC;
+    background-color: #1c1c1c;
+    border-radius: 3em;
+    box-shadow: 0 0 20px 2px #131313;
+}
+a {color: #40A6FF;text-decoration: none;}
+a:hover {color: lightblue;text-decoration: underline;}
