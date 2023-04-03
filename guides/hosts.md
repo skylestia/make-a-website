@@ -6,9 +6,9 @@ This will be a list of services that offers free web hosting.
 
 | Learn:                          | Resources:                         | About:
 | ------------------------------- | ---------------------------------- | ---------------------------------------------
-| - [HTML](guides/html.md)        | - [Templates](templates/readme.md) | - [Home/Introduction](./)
-| - [CSS](guides/css.md)          | - [Builders](guides/builders.md)   | - [Mission Statement](mission-statement.md)
-| - [Dictionary](guides/vocab.md) | - [Hosts](guides/hosts.md)         | - [View on Github](https://github.com/skylestia/make-a-website)
+| - [HTML](html.md)        | - [Templates](../templates/readme.md) | - [Home/Introduction](./)
+| - [CSS](css.md)          | - [Builders](builders.md)   | - [Mission Statement](mission-statement.md)
+| - [Dictionary](vocab.md) | - [Hosts](hosts.md)         | - [View on Github](https://github.com/skylestia/make-a-website)
 
 ## Table of Contents
 

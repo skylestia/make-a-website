@@ -14,3 +14,8 @@ a:hover {color: lightblue;text-decoration: underline;}
 .markdown-body table tr:nth-child(2n) {background-color: #171717;}
 .markdown-body table th,.markdown-body table td {border-color: #0f0f0f;}
 .markdown-body img {background-color: transparent;}
+.markdown-body .highlight pre, .markdown-body pre {
+    background-color: #111418;
+    border-radius: initial;
+}
+.highlight .nt {color: #41a2db;}
