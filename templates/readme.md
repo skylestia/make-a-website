@@ -10,5 +10,5 @@
 
 These are the templates currently available from the make-a-website project.
 
-[Simplyflat](https://skylestia.github.io/make-a-website/templates/simplyflat/)
-[Nines](https://skylestia.github.io/make-a-website/templates/nines/)
+- [Simplyflat](https://skylestia.github.io/make-a-website/templates/simplyflat/)
+- [Nines](https://skylestia.github.io/make-a-website/templates/nines/)
