@@ -1,12 +1,12 @@
 @font-face {
-    font-family: nunito;
-    src: url("https://sky-assets.pages.dev/font/Nunito.ttf");
+    font-family: font;
+    src: url("https://sky-assets.pages.dev/font/ComicNeue.ttf");
 }
 html {image-rendering: pixelated;}
 body {
     margin: 0;
     padding: 0;
-    font-family: nunito;
+    font-family: font, sans-serif;
     color: #d4d4e4;
     background-color: #222226;
 }

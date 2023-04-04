@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <!-- <link rel="shortcut icon" href="favicon.ico" type="image/x-icon"> -->
+    <title>Replace this with your site's name</title>
+</head>
+</head>
+<body>
+    <input class='light-switch' id='light-switch' name='light-switch' type='checkbox'>
+    <div class="page">
+        <div class='header'>
+            <!-- replace the following two images with your own -->
+            <img src='../sample-face.png' alt='logo image, profile pic' class='logo'>
+            <img src='../sample-banner.png' alt='site banner' class='banner'>
+        </div>
+        <label for='light-switch'>
+            <!-- replace the following two icons with your own -->
+            <span class="dark"><img src='../sample-sun.png' alt='sun'> Theme: Dark Mode</span>
+            <span class="light"><img src='../sample-moon.png' alt='moon'> Theme: Light Mode</span>
+        </label>
+        <hr>
+        <p>Write something about yourself or your website here. Example:</p>
+        <p>Hi and welcome to my very cool super cool awesome website</p>
+        <p>I am a person and I do things.</p>
+        <p>Some of my interests include:</p>
+        <ul>
+            <li>Stuff</li>
+            <li>Things</li>
+            <li>Doohickies</li>
+            <li>Thingamabobs</li>
+        </ul>
+        <hr>
+        <p>You could maybe include a link to a blog down here, or maybe list when your site was created and last updated.</p>
+    </div>
+    <div class="nav">
+        <p>Navigation:</p>
+        <ul>
+            <li><a href='#'>Projects</a></li>
+            <li><a href='#'>About</a></li>
+            <li><a href='#'>Contact</a></li>
+        </ul>
+    </div>
+    <script>
+    // this javascript stores a cookie that remembers the current theme state
+    // simply remove this script element if you don't want to store a cookie
+    const checkbox = document.getElementById('light-switch');
+    checkbox.addEventListener('change', function() {
+        document.cookie = `light-switch=${this.checked}`;
+    });
+
+    const cookieValue = document.cookie.replace(/(?:(?:^|.*;\s*)light-switch\s*\=\s*([^;]*).*$)|^.*$/, '$1');
+
+    if (cookieValue === 'true') {
+        checkbox.checked = true;
+        } else if (cookieValue === 'false') {
+            checkbox.checked = false;
+    }
+    </script>
+</body>
+</html>

@@ -1,0 +1,101 @@
+:root {
+    /* these are the colors of your theme */
+    /* global */
+    --colorHighlight: #639BFF;
+    --colorHighlightFaded: #6ba9c3;
+    /* dark */
+    --colorBgDark: #201f1f;
+    --colorBgDarkFaded: #2f2e2e;
+    --colorFgDark: #efefef;
+    --colorFgLinkDark: #89cce9;
+    /* light */
+    --colorBgLight: #efefef;
+    --colorBgLightFaded: #dddddd;
+    --colorFgLight: #201f1f;
+    --colorFgLinkLight: #1a7095;
+}
+@font-face {
+    font-family: font;
+    src: url("https://sky-assets.pages.dev/font/ComicNeue.ttf");
+}
+* {margin: 0;padding: 0;}
+body {
+    display: flex;
+    min-height: 100vh;
+    font-family: font, sans-serif;
+    color: var(--colorFgDark);
+    background: fixed url('../sample-bg.png');
+    background-size: 30%;
+    image-rendering: pixelated;
+}
+a {color: var(--colorFgLinkDark);}
+a:hover {color: var(--colorFgLinkLight);}
+.page {
+    margin: 5em 0 5em auto;
+    padding: 3em;
+    max-width: 30em;
+    background-color: var(--colorBgDark);
+    border: 8px solid var(--colorHighlight);
+}
+.header {text-align: center;}
+.logo {
+    width: 13em;
+}
+.banner {
+    display: block;
+    margin: -20px auto 20px;
+    width: 15em;
+    filter: drop-shadow(0 0 1px var(--colorBgDark));
+}
+.page p {margin: 10px;}
+.page ul {margin-left: 3em;}
+.nav {
+    margin: 5em auto auto 0;
+    color: var(--colorFgDark);
+    background-color: var(--colorBgDarkFaded);
+    padding: 1em;
+    border: 2px solid var(--colorHighlight);
+}
+.nav ul {list-style-type: none;margin-top: 10px;}
+.nav ul li:before {content: '- ';}
+.nav ul hr {margin: 1em 10px 1em;}
+#light-switch {
+    visibility: hidden;
+    position: absolute;
+}
+label[for='light-switch'] {
+    color: var(--colorFgLinkDark);
+}
+label[for='light-switch']:hover {
+    cursor: pointer;
+    color: var(--colorFgLinkLight);
+}
+label[for='light-switch'] img {width: 15px;}
+label[for='light-switch'] span.light {display: none;}
+#light-switch:checked ~ .page label[for='light-switch'] span.light {
+    display: initial;
+    color: var(--colorFgLinkLight);
+}
+#light-switch:checked ~ .page label[for='light-switch'] span.light:hover {
+    color: var(--colorFgLinkDark);
+}
+#light-switch:checked ~ .page label[for='light-switch'] span.dark {
+    display: none;
+}
+/* light theme */
+#light-switch:checked ~ .page {
+    color: var(--colorFgLight);
+    background-color: var(--colorBgLight);
+}
+#light-switch:checked ~ .page a {color: var(--colorFgLinkLight);}
+#light-switch:checked ~ .page a:hover {color: var(--colorFgLinkDark);}
+#light-switch:checked ~ .nav {
+    color: var(--colorFgLight);
+    background-color: var(--colorBgLightFaded);
+}
+#light-switch:checked ~ .nav a {
+    color: var(--colorFgLinkLight);
+}
+#light-switch:checked ~ .nav a:hover {
+    color: var(--colorFgLinkDark);
+}
