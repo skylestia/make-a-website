@@ -30,7 +30,7 @@ HTML is a very simple coding language and it's very easy to learn. Seriously, I'
 
 For example, if I wanted to start a new paragraph I would communicate that to the browser by writing `<p>` and to end that paragraph I would write `</p>`
 
-Everything contained in between `<p>` and `</p>` is considered a "paragraph element."  An element is just a part of a web page, the kind of element is determined by the tags which open and close it. Not all elements have closing tags, but most do, and all of the basic ones that I'll teach you in this document do.
+Everything contained in between `<p>` and `</p>` is considered a "paragraph element."  An element is just a part of a web page, the kind of element is determined by the tags which open and close it. Not all elements have closing tags, but most do.
 
 ---
 
@@ -115,7 +115,7 @@ If you want to add more paragraphs, just add more `<p>` elements:
 <body>
     <h1>Welcome to my very cool site!</h1>
     <p>My site is super duper cool!</p>
-    <p>I hope you have a goodd time on my website!</p>
+    <p>I hope you have a good time on my website!</p>
     <p>I love html!</p>
 </body>
 </html>
@@ -142,7 +142,7 @@ In html you would write this list using `<ul>` (Unordered List) and `<li>` (List
 <body>
     <h1>Welcome to my very cool site!</h1>
     <p>My site is super duper cool!</p>
-    <p>I hope you have a goodd time on my website!</p>
+    <p>I hope you have a good time on my website!</p>
     <p>I love html!</p>
     <p>Here are some things I like:</p>
     <ul>
@@ -181,7 +181,7 @@ Let's add it your website's folder. First create a new folder inside your `websi
 <body>
     <h1>Welcome to my very cool site!</h1>
     <p>My site is super duper cool!</p>
-    <p>I hope you have a goodd time on my website!</p>
+    <p>I hope you have a good time on my website!</p>
     <p>I love html!</p>
     <p>Here are some things I like:</p>
     <ul>
@@ -214,7 +214,7 @@ You'll probably also want to link to other pages at some point. You would do tha
 <body>
     <h1>Welcome to my very cool site!</h1>
     <p>My site is super duper cool!</p>
-    <p>I hope you have a goodd time on my website!</p>
+    <p>I hope you have a good time on my website!</p>
     <p>I love html!</p>
     <p>Here are some things I like:</p>
     <ul>
